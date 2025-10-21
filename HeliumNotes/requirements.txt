@@ -1,0 +1,10 @@
+PyQt6
+sqlite3-binary
+spacy
+regex
+sentence-transformers
+torch
+llama-cpp-python
+networkx
+pyqtgraph
+reportlab
